@@ -1,0 +1,24 @@
+{
+  "name": "tslint-formatter-eslint-style",
+  "version": "0.0.1",
+  "description": "A TSLint formatter that displays all errors per file with line/char position",
+  "keywords": [
+    "tslint",
+    "typescript",
+    "formatter"
+  ],
+  "homepage": "https://github.com/tbasse/tslint-formatter-eslint-style#readme",
+  "author": "Thorsten Basse",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tbasse/tslint-formatter-eslint-style.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tbasse/tslint-formatter-eslint-style/issues"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
